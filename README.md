@@ -1,7 +1,8 @@
-# Lab 7 Mongo 2 way encryption
+# Lab 7: Database Security
 ### Authors 
-Turcanu Iuliana
-Calugari Alexandr
+FAF-181
+[Alexandr Calugari](https://github.com/afishr)
+[Turcanu Iuliana](https://github.com/Julinia)
 
 ### Tasks:
  
