@@ -1,0 +1,6 @@
+framework module Pods_SSLPinning {
+  umbrella header "Pods-SSLPinning-umbrella.h"
+
+  export *
+  module * { export * }
+}
