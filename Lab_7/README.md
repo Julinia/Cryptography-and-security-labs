@@ -1,8 +1,4 @@
 # Lab 7: Database Security
-### Authors 
-FAF-181
-[Alexandr Calugari](https://github.com/afishr)
-[Turcanu Iuliana](https://github.com/Julinia)
 
 ### Tasks:
  
